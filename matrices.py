@@ -27,7 +27,7 @@ def matrix_multiplier(A,B):
 
 ##################################
 #Test Generator
-import random as rd
+"""import random as rd
 
 a = rd.randint(3,5)
 b = rd.randint(2,5)
@@ -64,4 +64,4 @@ print('\n')
 answer = matrix_multiplier(First_matrix, Second_matrix)
 
 for i in answer:
-    print(i)
+    print(i)"""
