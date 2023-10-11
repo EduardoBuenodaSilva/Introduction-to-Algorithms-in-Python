@@ -9,9 +9,7 @@ def fibonacci(N):
     B = m.matrix_multiplier(A,B)
     Answer.append(B[0][1])
   return Answer
-    
-
-
+  
 What = fibonacci(1000)
 
 print(What)
